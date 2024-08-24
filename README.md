@@ -18,17 +18,19 @@ A robust storage management system with a Flask-based WebGUI for easy configurat
 ### Steps
 
 1. **Clone the Repository**
+
     ```bash
     git clone https://github.com/yourusername/sorbbet.git
     cd sorbbet
     ```
 
-2. **Run the Installation Script**
+1. **Run the Installation Script**
+
     ```bash
     sudo bash scripts/install.sh
     ```
 
-3. **Access the WebGUI**
+1. **Access the WebGUI**
     Open your web browser and navigate to `http://localhost` to access the WebGUI.
 
 ## Usage
